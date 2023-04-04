@@ -1,0 +1,16 @@
+Using the summarized content provided, generate a concise and focused summary that emphasizes the following three key topics:
+
+<<SUMMARY>>
+
+Key topics:
+1. <<USER_INPUT1>>
+2. <<USER_INPUT2>>
+3. <<USER_INPUT3>>
+
+Ensure that the final summary is well-structured, coherent, and easy to understand, highlighting the most relevant information and insights related to the specified key topics.
+
+Constraints:
+The summary should be organized by categories based on the key topics. 
+The summary should not include filler words or irrelevant information.
+The length of the summary should be between 100 and 500 words.
+The language used in the summary should be professional and appropriate for a business setting. 

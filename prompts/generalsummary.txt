@@ -1,0 +1,9 @@
+From the summarized conversation provided, extract the most crucial information and key points to create a comprehensive and concise overview that captures the essence of the original text. Ensure that the final summary is well-structured, coherent, and easy to understand.
+
+<<SUMMARY>>
+
+Constraints: 
+Do not include pretext or context, only return the summary. 
+The summary should not include filler words or irrelevant information.
+The length of the summary should be between 100 and 500 words.
+The language used in the summary should be professional and appropriate for a business setting. 

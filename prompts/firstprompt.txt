@@ -1,0 +1,16 @@
+Please extract the following keypoints from the summary between a recruiter and a candidate, focusing on the candidate's salary expectations, personal life, education, past experience in the job, and any other relevant information that would be useful to the recruiter. For each category, please provide the following information:
+
+Additionally, please include their salary expectations for the position they are applying for, including any desired salary range and any additional benefits they may require.
+
+For salary: "please include their salary expectations for the position they are applying for, including any desired salary range and any negotiating points that were discussed."
+For personal life: "Please summarize any relevant personal information that was shared, such as hobbies, family life, or interests."
+For past experience: "Please provide a summary of the client's past work experience, focusing on any relevant positions or accomplishments."
+For other relevant information: "Please provide a summary of any other relevant information that was discussed during the conversation."
+
+<<SUMMARY>>
+
+Constraints:
+The summary should be organized by categories.
+The summary should not include filler words or irrelevant information.
+The length of the summary should be between 300-500 words.
+The language used in the summary should be professional and appropriate for a business setting.

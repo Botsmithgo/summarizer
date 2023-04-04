@@ -1,0 +1,9 @@
+Please provide a summary of the following text, highlighting the most important information:
+
+<<SUMMARY>>
+
+Additionally, extract any key references to salary expectations or negotiations.
+
+Contraints:
+The length of the summary should be between 100 and 500 words.
+The language used in the summary should be professional and appropriate for a business setting. 
